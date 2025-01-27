@@ -1,0 +1,76 @@
+2025/01/11 13:09:14 [alert] 18237#18237: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/11 13:09:14 [error] 18237#18237: init_by_lua error: init_by_lua(nginx.conf.compiled:14):2: module 'lpeg' not found:
+	no field package.preload['lpeg']
+	no file '/usr/local/openresty/site/lualib/lpeg.ljbc'
+	no file '/usr/local/openresty/site/lualib/lpeg/init.ljbc'
+	no file '/usr/local/openresty/lualib/lpeg.ljbc'
+	no file '/usr/local/openresty/lualib/lpeg/init.ljbc'
+	no file '/usr/local/openresty/site/lualib/lpeg.lua'
+	no file '/usr/local/openresty/site/lualib/lpeg/init.lua'
+	no file '/usr/local/openresty/lualib/lpeg.lua'
+	no file '/usr/local/openresty/lualib/lpeg/init.lua'
+	no file './lpeg.lua'
+	no file '/usr/local/openresty/luajit/share/luajit-2.1/lpeg.lua'
+	no file '/usr/local/share/lua/5.1/lpeg.lua'
+	no file '/usr/local/share/lua/5.1/lpeg/init.lua'
+	no file '/usr/local/openresty/luajit/share/lua/5.1/lpeg.lua'
+	no file '/usr/local/openresty/luajit/share/lua/5.1/lpeg/init.lua'
+	no file '/usr/local/openresty/site/lualib/lpeg.so'
+	no file '/usr/local/openresty/lualib/lpeg.so'
+	no file './lpeg.so'
+	no file '/usr/local/lib/lua/5.1/lpeg.so'
+	no file '/usr/local/openresty/luajit/lib/lua/5.1/lpeg.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+stack traceback:
+	[C]: in function 'require'
+	init_by_lua(nginx.conf.compiled:14):2: in main chunk
+2025/01/11 13:10:03 [alert] 18720#18720: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/11 13:11:01 [alert] 19007#19007: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/11 13:35:27 [emerg] 22145#22145: "lua_package_path" directive is not allowed here in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:2
+2025/01/11 13:36:16 [emerg] 22379#22379: "lua_package_path" directive is not allowed here in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:2
+2025/01/11 13:36:36 [emerg] 22521#22521: "lua_package_path" directive is not allowed here in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:2
+2025/01/11 13:37:53 [emerg] 22796#22796: "lua_package_path" directive is not allowed here in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:2
+2025/01/11 13:42:00 [alert] 23785#23785: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/11 13:45:07 [alert] 27061#27061: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/11 13:45:20 [alert] 27182#27182: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 11:44:36 [alert] 2362#2362: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 12:09:52 [alert] 6970#6970: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 12:21:43 [alert] 9270#9270: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 12:22:44 [alert] 9564#9564: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 12:24:44 [alert] 10015#10015: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 12:26:41 [alert] 10475#10475: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 12:27:03 [alert] 10637#10637: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 12:32:56 [alert] 11825#11825: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 12:33:54 [alert] 12162#12162: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 12:34:42 [alert] 12436#12436: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 12:35:23 [alert] 12659#12659: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 12:38:00 [alert] 13287#13287: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 12:41:44 [alert] 14081#14081: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 12:42:23 [alert] 14306#14306: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 12:54:10 [alert] 16518#16518: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 12:57:20 [alert] 17189#17189: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 12:58:52 [alert] 17558#17558: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 12:59:46 [alert] 17825#17825: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 13:00:42 [alert] 18104#18104: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 13:03:18 [alert] 18675#18675: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 13:04:04 [alert] 18887#18887: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 13:05:21 [alert] 19597#19597: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 13:12:39 [alert] 20966#20966: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 13:15:31 [alert] 21576#21576: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 13:17:09 [alert] 22297#22297: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 13:18:01 [alert] 22582#22582: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 13:26:48 [alert] 24283#24283: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 13:33:24 [alert] 28477#28477: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 13:51:06 [alert] 31993#31993: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 13:52:53 [alert] 32533#32533: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 13:55:23 [alert] 33104#33104: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 13:56:18 [alert] 33380#33380: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 13:57:13 [alert] 33648#33648: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 13:59:08 [alert] 34115#34115: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 14:00:18 [alert] 34438#34438: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 17:44:36 [alert] 1550#1550: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 17:46:51 [alert] 2195#2195: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 17:56:14 [alert] 4106#4106: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 17:56:59 [alert] 4347#4347: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 17:57:02 [alert] 4404#4404: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
+2025/01/26 17:59:05 [alert] 4867#4867: lua_code_cache is off; this will hurt performance in /mnt/c/Users/mma/Desktop/studia/skryptowe/lua/nginx.conf.compiled:20
